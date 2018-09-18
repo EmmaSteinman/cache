@@ -1,0 +1,1933 @@
+---------------------------------------------------------
+operation: S
+address: 600aa0
+size: 1
+setBits: 0
+taggedBits: 196693
+0
+S	600aa0	1	miss
+---------------------------------------------------------
+operation: S
+address: 7ff000398
+size: 8
+setBits: 3
+taggedBits: 1073217564
+0
+S	7ff000398	8	miss
+---------------------------------------------------------
+operation: S
+address: 7ff000390
+size: 8
+setBits: 2
+taggedBits: 1073217564
+0
+S	7ff000390	8	miss
+---------------------------------------------------------
+operation: S
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+0
+S	7ff000378	8	miss
+---------------------------------------------------------
+operation: S
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+0
+S	7ff000370	8	miss
+---------------------------------------------------------
+operation: S
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+0
+S	7ff000384	4	miss
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+0
+S	7ff000388	4	miss
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a20
+size: 4
+setBits: 0
+taggedBits: 196689
+0
+L	600a20	4	miss
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a60
+size: 4
+setBits: 0
+taggedBits: 196691
+0
+S	600a60	4	miss
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a24
+size: 4
+setBits: 0
+taggedBits: 196689
+yoooo
+0
+L	600a24	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a70
+size: 4
+setBits: 2
+taggedBits: 196691
+0
+S	600a70	4	miss
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a28
+size: 4
+setBits: 1
+taggedBits: 196689
+0
+L	600a28	4	miss
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a80
+size: 4
+setBits: 0
+taggedBits: 196692
+0
+S	600a80	4	miss eviction
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a2c
+size: 4
+setBits: 1
+taggedBits: 196689
+yoooo
+0
+L	600a2c	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a90
+size: 4
+setBits: 2
+taggedBits: 196692
+0
+S	600a90	4	miss
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000384	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a30
+size: 4
+setBits: 2
+taggedBits: 196689
+0
+L	600a30	4	miss eviction
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a64
+size: 4
+setBits: 0
+taggedBits: 196691
+yoooo
+0
+S	600a64	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a34
+size: 4
+setBits: 2
+taggedBits: 196689
+yoooo
+0
+L	600a34	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a74
+size: 4
+setBits: 2
+taggedBits: 196691
+yoooo
+0
+S	600a74	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a38
+size: 4
+setBits: 3
+taggedBits: 196689
+0
+L	600a38	4	miss
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a84
+size: 4
+setBits: 0
+taggedBits: 196692
+yoooo
+0
+S	600a84	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a3c
+size: 4
+setBits: 3
+taggedBits: 196689
+yoooo
+0
+L	600a3c	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a94
+size: 4
+setBits: 2
+taggedBits: 196692
+yoooo
+0
+S	600a94	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000384	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a40
+size: 4
+setBits: 0
+taggedBits: 196690
+0
+L	600a40	4	miss eviction
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a68
+size: 4
+setBits: 1
+taggedBits: 196691
+0
+S	600a68	4	miss
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a44
+size: 4
+setBits: 0
+taggedBits: 196690
+yoooo
+0
+L	600a44	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a78
+size: 4
+setBits: 3
+taggedBits: 196691
+0
+S	600a78	4	miss
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a48
+size: 4
+setBits: 1
+taggedBits: 196690
+0
+L	600a48	4	miss
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a88
+size: 4
+setBits: 1
+taggedBits: 196692
+0
+S	600a88	4	miss eviction
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+1
+M	7ff000388	4	miss eviction hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a4c
+size: 4
+setBits: 1
+taggedBits: 196690
+yoooo
+0
+L	600a4c	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a98
+size: 4
+setBits: 3
+taggedBits: 196692
+0
+S	600a98	4	miss eviction
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000384	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a50
+size: 4
+setBits: 2
+taggedBits: 196690
+0
+L	600a50	4	miss eviction
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a6c
+size: 4
+setBits: 1
+taggedBits: 196691
+yoooo
+0
+S	600a6c	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a54
+size: 4
+setBits: 2
+taggedBits: 196690
+yoooo
+0
+L	600a54	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a7c
+size: 4
+setBits: 3
+taggedBits: 196691
+yoooo
+0
+S	600a7c	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a58
+size: 4
+setBits: 3
+taggedBits: 196690
+0
+L	600a58	4	miss eviction
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a8c
+size: 4
+setBits: 1
+taggedBits: 196692
+0
+S	600a8c	4	miss eviction
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+1
+M	7ff000388	4	miss eviction hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000378
+size: 8
+setBits: 3
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000378	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 600a5c
+size: 4
+setBits: 3
+taggedBits: 196690
+yoooo
+0
+L	600a5c	4	hit
+---------------------------------------------------------
+operation: S
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+S	7ff00038c	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000370
+size: 8
+setBits: 2
+taggedBits: 1073217563
+yoooo
+0
+L	7ff000370	8	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff00038c
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff00038c	4	hit
+---------------------------------------------------------
+operation: S
+address: 600a9c
+size: 4
+setBits: 3
+taggedBits: 196692
+0
+S	600a9c	4	miss eviction
+---------------------------------------------------------
+operation: M
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000388	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000388
+size: 4
+setBits: 1
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000388	4	hit
+---------------------------------------------------------
+operation: M
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+1
+M	7ff000384	4	hit hit
+---------------------------------------------------------
+operation: L
+address: 7ff000384
+size: 4
+setBits: 0
+taggedBits: 1073217564
+yoooo
+0
+L	7ff000384	4	hit
+---------------------------------------------------------
+operation: L
+address: 7ff000390
+size: 8
+setBits: 2
+taggedBits: 1073217564
+0
+L	7ff000390	8	miss eviction
+---------------------------------------------------------
+operation: L
+address: 7ff000398
+size: 8
+setBits: 3
+taggedBits: 1073217564
+0
+L	7ff000398	8	miss eviction
+---------------------------------------------------------
+operation: L
+address: 600aa0
+size: 1
+setBits: 0
+taggedBits: 196693
+0
+L	600aa0	1	miss eviction
+
